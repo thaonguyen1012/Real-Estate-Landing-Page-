@@ -619,6 +619,7 @@ p.desc {
 
 .footer .icon-group .social-link:hover {
     background-color: #cacaca;
+    border: #0689ff solid 1.5px;
 }
 
 .footer .row-2 {
