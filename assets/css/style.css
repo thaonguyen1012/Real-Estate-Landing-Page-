@@ -186,7 +186,6 @@ p.desc {
 }
 
 .clients-logo .client-logo:hover {
-    background: #fff;
     box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1);
 }
 
@@ -619,7 +618,6 @@ p.desc {
 
 .footer .icon-group .social-link:hover {
     background-color: #cacaca;
-    border: #0689ff solid 1.5px;
 }
 
 .footer .row-2 {
