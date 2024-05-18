@@ -1,8 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../HTML-CSS_Project_02"
+        },
+        {
+            "path": "../HTML_CSS_2"
+        }
+    ],
+    "settings": {}
 }
